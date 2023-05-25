@@ -1,4 +1,4 @@
-package digitalinnovation;
+package digitalinnovation.Singleton;
 
 public class SingletonLazy {
     private static SingletonLazy instancia;
